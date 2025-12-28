@@ -1,0 +1,13 @@
+# Site settings
+title: Marcelo's Projects
+description: A showcase of my personal projects
+remote_theme: pages-themes/minimal@v0.2.0
+
+# Build settings
+plugins:
+  - jekyll-remote-theme
+
+# Exclude files from build
+exclude:
+  - README.md
+  - LICENSE
